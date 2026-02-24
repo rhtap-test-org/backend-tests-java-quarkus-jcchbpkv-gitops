@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/backend-tests-java-quarkus-jcchbpkv:b5f744afce24b24849a619812bae0b6a22ece4a3@sha256:bf96ae07bfe7c764081bb155be1a46dbad24966ea654aea19454e26169fe56a8
+        - image: quay.io/tsscui/backend-tests-java-quarkus-jcchbpkv:5147f2ce10b7495c482d69c97852383e8102081c@sha256:6e8aeb6d07ebf875f40d58cf1717da50f5794982c53bc4833d2dbb23288ceef2
           name: container-image
